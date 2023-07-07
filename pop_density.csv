@@ -1,0 +1,421 @@
+Code,Name,Geography,Area (sq km),Estimated Population mid-2021,2021 people per sq. km,Estimated Population mid-2011,2011 people per sq. km,Estimated Population mid-2001,2001 people per sq. km
+K02000001,UNITED KINGDOM,Country,"242,741","67,026,292",276,"63,285,145",261,"59,113,016",244
+K03000001,GREAT BRITAIN,Country,"228,948","65,121,729",284,"61,470,827",268,"57,424,178",251
+K04000001,ENGLAND AND WALES,Country,"151,047","59,641,829",395,"56,170,927",372,"52,359,978",347
+E92000001,ENGLAND,Country,"130,310","56,536,419",434,"53,107,169",408,"49,449,746",379
+E12000001,NORTH EAST,Region,"8,581","2,646,772",308,"2,596,441",303,"2,540,090",296
+E06000047,County Durham,Unitary Authority,"2,226","521,346",234,"512,994",230,"493,678",222
+E06000005,Darlington,Unitary Authority,197,"108,222",548,"105,584",535,"97,894",496
+E06000001,Hartlepool,Unitary Authority,94,"92,571",988,"92,088",983,"90,152",962
+E06000002,Middlesbrough,Unitary Authority,54,"143,734","2,668","138,368","2,568","141,233","2,621"
+E06000057,Northumberland,Unitary Authority,"5,020","321,558",64,"316,278",63,"307,363",61
+E06000003,Redcar and Cleveland,Unitary Authority,245,"136,616",557,"135,164",552,"139,159",568
+E06000004,Stockton-on-Tees,Unitary Authority,205,"197,030",961,"191,824",936,"183,795",897
+E11000007,Tyne and Wear (Met County),Metropolitan County,540,"1,125,695","2,085","1,104,141","2,045","1,086,816","2,013"
+E08000037,Gateshead,Metropolitan District,142,"196,154","1,378","200,349","1,408","191,178","1,343"
+E08000021,Newcastle upon Tyne,Metropolitan District,113,"298,264","2,629","279,092","2,460","266,241","2,347"
+E08000022,North Tyneside,Metropolitan District,82,"209,151","2,541","201,206","2,445","192,003","2,333"
+E08000023,South Tyneside,Metropolitan District,64,"147,915","2,296","148,164","2,300","152,793","2,372"
+E08000024,Sunderland,Metropolitan District,137,"274,211","1,995","275,330","2,003","284,601","2,071"
+E12000002,NORTH WEST,Region,"14,108","7,422,295",526,"7,055,961",500,"6,772,985",480
+E06000008,Blackburn with Darwen,Unitary Authority,137,"154,922","1,131","147,657","1,078","138,453","1,010"
+E06000009,Blackpool,Unitary Authority,35,"140,954","4,042","142,080","4,074","142,270","4,080"
+E06000049,Cheshire East,Unitary Authority,"1,166","400,528",343,"370,736",318,"352,104",302
+E06000050,Cheshire West and Chester,Unitary Authority,920,"357,699",389,"329,526",358,"322,154",350
+E06000006,Halton,Unitary Authority,79,"128,577","1,626","125,722","1,590","118,559","1,499"
+E06000007,Warrington,Unitary Authority,181,"211,227","1,169","202,709","1,122","191,202","1,059"
+E10000006,Cumbria,County,"6,768","500,821",74,"499,817",74,"487,795",72
+E07000026,Allerdale,Non-metropolitan District,"1,242","96,384",78,"96,444",78,"93,544",75
+E07000027,Barrow-in-Furness,Non-metropolitan District,78,"67,375",865,"69,056",887,"71,960",924
+E07000028,Carlisle,Non-metropolitan District,"1,038","110,255",106,"107,475",104,"100,764",97
+E07000029,Copeland,Non-metropolitan District,732,"67,176",92,"70,627",97,"69,251",95
+E07000030,Eden,Non-metropolitan District,"2,142","54,955",26,"52,502",25,"49,879",23
+E07000031,South Lakeland,Non-metropolitan District,"1,535","104,676",68,"103,713",68,"102,397",67
+E11000001,Greater Manchester (Met County),Metropolitan County,"1,276","2,868,387","2,248","2,685,386","2,105","2,516,096","1,972"
+E08000001,Bolton,Metropolitan District,140,"296,041","2,118","277,296","1,984","261,302","1,869"
+E08000002,Bury,Metropolitan District,99,"193,823","1,949","185,422","1,864","180,655","1,816"
+E08000003,Manchester,Metropolitan District,116,"549,853","4,755","502,902","4,349","422,915","3,657"
+E08000004,Oldham,Metropolitan District,142,"242,072","1,701","225,157","1,582","218,537","1,535"
+E08000005,Rochdale,Metropolitan District,158,"224,087","1,417","211,929","1,340","206,440","1,306"
+E08000006,Salford,Metropolitan District,97,"270,764","2,786","234,487","2,412","216,978","2,232"
+E08000007,Stockport,Metropolitan District,126,"295,243","2,342","283,253","2,247","284,557","2,258"
+E08000008,Tameside,Metropolitan District,103,"231,199","2,241","219,727","2,130","213,087","2,066"
+E08000009,Trafford,Metropolitan District,106,"235,546","2,221","227,091","2,141","210,172","1,982"
+E08000010,Wigan,Metropolitan District,188,"329,759","1,752","318,122","1,691","301,453","1,602"
+E10000017,Lancashire,County,"2,894","1,236,035",427,"1,171,558",405,"1,136,542",393
+E07000117,Burnley,Non-metropolitan District,111,"94,721",856,"87,032",786,"89,521",809
+E07000118,Chorley,Non-metropolitan District,203,"117,937",582,"107,591",531,"100,559",496
+E07000119,Fylde,Non-metropolitan District,166,"81,845",494,"76,098",459,"73,340",443
+E07000120,Hyndburn,Non-metropolitan District,73,"82,261","1,127","80,549","1,103","81,495","1,116"
+E07000121,Lancaster,Non-metropolitan District,567,"142,162",251,"137,823",243,"134,049",236
+E07000122,Pendle,Non-metropolitan District,169,"95,789",566,"89,576",529,"89,277",527
+E07000123,Preston,Non-metropolitan District,142,"147,617","1,037","140,054",984,"130,372",916
+E07000124,Ribble Valley,Non-metropolitan District,583,"61,907",106,"57,292",98,"54,053",93
+E07000125,Rossendale,Non-metropolitan District,138,"71,010",514,"68,053",493,"65,647",476
+E07000126,South Ribble,Non-metropolitan District,113,"111,204",983,"109,181",965,"103,949",919
+E07000127,West Lancashire,Non-metropolitan District,347,"117,125",338,"110,617",319,"108,480",313
+E07000128,Wyre,Non-metropolitan District,282,"112,457",399,"107,692",382,"105,800",375
+E11000002,Merseyside (Met County),Metropolitan County,652,"1,423,145","2,182","1,380,770","2,117","1,367,810","2,097"
+E08000011,Knowsley,Metropolitan District,87,"154,974","1,792","145,903","1,687","151,238","1,748"
+E08000012,Liverpool,Metropolitan District,112,"484,488","4,332","465,656","4,164","441,858","3,951"
+E08000014,Sefton,Metropolitan District,157,"279,692","1,786","273,969","1,750","282,884","1,807"
+E08000013,St. Helens,Metropolitan District,136,"183,391","1,345","175,405","1,286","176,826","1,297"
+E08000015,Wirral,Metropolitan District,161,"320,600","1,992","319,837","1,988","315,004","1,957"
+E12000003,YORKSHIRE AND THE HUMBER,Region,"15,404","5,481,431",356,"5,288,212",343,"4,976,643",323
+E06000011,East Riding of Yorkshire,Unitary Authority,"2,404","343,143",143,"334,673",139,"314,854",131
+E06000010,"Kingston upon Hull, City of",Unitary Authority,72,"266,463","3,722","256,123","3,578","249,913","3,491"
+E06000012,North East Lincolnshire,Unitary Authority,193,"157,197",816,"159,735",829,"157,951",820
+E06000013,North Lincolnshire,Unitary Authority,847,"169,940",201,"167,516",198,"152,964",181
+E06000014,York,Unitary Authority,272,"201,672",742,"197,783",727,"181,291",667
+E10000023,North Yorkshire,County,"8,037","618,847",77,"601,206",75,"570,094",71
+E07000163,Craven,Non-metropolitan District,"1,177","57,090",48,"55,459",47,"53,706",46
+E07000164,Hambleton,Non-metropolitan District,"1,311","91,037",69,"89,602",68,"84,168",64
+E07000165,Harrogate,Non-metropolitan District,"1,308","164,105",125,"158,683",121,"151,467",116
+E07000166,Richmondshire,Non-metropolitan District,"1,319","50,358",38,"53,287",40,"47,067",36
+E07000167,Ryedale,Non-metropolitan District,"1,507","54,897",36,"51,893",34,"50,910",34
+E07000168,Scarborough,Non-metropolitan District,816,"108,959",133,"108,735",133,"106,221",130
+E07000169,Selby,Non-metropolitan District,599,"92,401",154,"83,547",139,"76,555",128
+E11000003,South Yorkshire (Met County),Metropolitan County,"1,552","1,374,182",886,"1,343,805",866,"1,266,475",816
+E08000016,Barnsley,Metropolitan District,329,"244,893",744,"231,865",705,"218,124",663
+E08000017,Doncaster,Metropolitan District,568,"308,705",543,"302,468",533,"286,900",505
+E08000018,Rotherham,Metropolitan District,287,"266,183",929,"257,716",899,"248,349",867
+E08000019,Sheffield,Metropolitan District,368,"554,401","1,507","551,756","1,500","513,102","1,395"
+E11000006,West Yorkshire (Met County),Metropolitan County,"2,029","2,349,987","1,158","2,227,371","1,098","2,083,101","1,027"
+E08000032,Bradford,Metropolitan District,366,"546,976","1,493","523,115","1,428","470,753","1,285"
+E08000033,Calderdale,Metropolitan District,364,"206,818",568,"204,170",561,"192,379",529
+E08000034,Kirklees,Metropolitan District,409,"433,355","1,061","422,970","1,035","388,980",952
+E08000035,Leeds,Metropolitan District,552,"809,036","1,466","750,683","1,361","715,609","1,297"
+E08000036,Wakefield,Metropolitan District,339,"353,802","1,045","326,433",964,"315,380",931
+E12000004,EAST MIDLANDS,Region,"15,624","4,880,094",312,"4,537,448",290,"4,189,622",268
+E06000015,Derby,Unitary Authority,78,"261,136","3,347","248,943","3,190","230,726","2,957"
+E06000016,Leicester,Unitary Authority,73,"366,018","4,991","329,627","4,494","282,757","3,855"
+E06000061,North Northamptonshire ,Unitary Authority,987,"360,381",365,"317,959",322,"285,093",289
+E06000018,Nottingham,Unitary Authority,75,"319,566","4,283","303,899","4,073","268,939","3,604"
+E06000017,Rutland,Unitary Authority,382,"41,381",108,"37,581",98,"34,598",91
+E06000062,West Northamptonshire ,Unitary Authority,"1,377","426,462",310,"376,008",273,"345,893",251
+E10000007,Derbyshire,County,"2,547","796,847",313,"770,688",303,"734,888",289
+E07000032,Amber Valley,Non-metropolitan District,265,"126,489",477,"122,521",462,"116,560",439
+E07000033,Bolsover,Non-metropolitan District,160,"80,476",502,"76,029",474,"71,887",448
+E07000034,Chesterfield,Non-metropolitan District,66,"103,672","1,570","103,788","1,572","98,832","1,497"
+E07000035,Derbyshire Dales,Non-metropolitan District,792,"71,681",90,"71,104",90,"69,418",88
+E07000036,Erewash,Non-metropolitan District,110,"113,047","1,031","112,249","1,024","110,126","1,005"
+E07000037,High Peak,Non-metropolitan District,539,"91,104",169,"90,982",169,"89,400",166
+E07000038,North East Derbyshire,Non-metropolitan District,276,"102,315",371,"99,100",360,"96,927",352
+E07000039,South Derbyshire,Non-metropolitan District,338,"108,063",320,"94,915",281,"81,738",242
+E10000018,Leicestershire,County,"2,083","712,572",342,"651,179",313,"610,279",293
+E07000129,Blaby,Non-metropolitan District,130,"103,271",792,"94,132",721,"90,361",693
+E07000130,Charnwood,Non-metropolitan District,279,"182,817",655,"165,876",594,"153,554",550
+E07000131,Harborough,Non-metropolitan District,592,"98,287",166,"85,699",145,"76,818",130
+E07000132,Hinckley and Bosworth,Non-metropolitan District,297,"113,660",382,"105,328",354,"100,202",337
+E07000133,Melton,Non-metropolitan District,481,"51,773",108,"50,495",105,"47,875",99
+E07000134,North West Leicestershire,Non-metropolitan District,279,"105,011",376,"93,670",335,"85,678",307
+E07000135,Oadby and Wigston,Non-metropolitan District,24,"57,753","2,455","55,979","2,379","55,791","2,371"
+E10000019,Lincolnshire,County,"5,937","769,474",130,"714,768",120,"647,640",109
+E07000136,Boston,Non-metropolitan District,364,"70,798",194,"64,615",178,"55,802",153
+E07000137,East Lindsey,Non-metropolitan District,"1,767","142,951",81,"136,683",77,"130,654",74
+E07000138,Lincoln,Non-metropolitan District,36,"102,330","2,867","93,085","2,608","85,584","2,398"
+E07000139,North Kesteven,Non-metropolitan District,922,"118,553",129,"108,518",118,"94,378",102
+E07000140,South Holland,Non-metropolitan District,750,"95,485",127,"88,390",118,"76,714",102
+E07000141,South Kesteven,Non-metropolitan District,943,"143,787",153,"134,125",142,"124,877",132
+E07000142,West Lindsey,Non-metropolitan District,"1,156","95,570",83,"89,352",77,"79,631",69
+E10000024,Nottinghamshire,County,"2,085","826,257",396,"786,796",377,"748,809",359
+E07000170,Ashfield,Non-metropolitan District,110,"126,372","1,153","119,522","1,091","111,477","1,018"
+E07000171,Bassetlaw,Non-metropolitan District,638,"118,351",186,"113,003",177,"107,843",169
+E07000172,Broxtowe,Non-metropolitan District,80,"110,813","1,383","109,749","1,370","107,481","1,342"
+E07000173,Gedling,Non-metropolitan District,120,"117,298",978,"113,741",948,"111,812",932
+E07000174,Mansfield,Non-metropolitan District,77,"110,602","1,442","104,551","1,363","98,065","1,279"
+E07000175,Newark and Sherwood,Non-metropolitan District,651,"123,383",189,"114,982",177,"106,351",163
+E07000176,Rushcliffe,Non-metropolitan District,409,"119,438",292,"111,248",272,"105,780",258
+E12000005,WEST MIDLANDS,Region,"12,998","5,954,240",458,"5,608,667",431,"5,280,727",406
+E06000019,"Herefordshire, County of",Unitary Authority,"2,180","187,557",86,"183,619",84,"174,885",80
+E06000051,Shropshire,Unitary Authority,"3,197","324,716",102,"307,108",96,"283,254",89
+E06000021,Stoke-on-Trent,Unitary Authority,93,"258,037","2,761","248,719","2,662","240,422","2,573"
+E06000020,Telford and Wrekin,Unitary Authority,290,"185,842",640,"166,831",575,"158,573",546
+E10000028,Staffordshire,County,"2,620","877,856",335,"849,546",324,"807,152",308
+E07000192,Cannock Chase,Non-metropolitan District,79,"100,590","1,275","97,582","1,237","92,165","1,168"
+E07000193,East Staffordshire,Non-metropolitan District,387,"124,477",322,"113,858",294,"103,938",269
+E07000194,Lichfield,Non-metropolitan District,331,"106,909",323,"100,911",305,"93,229",281
+E07000195,Newcastle-under-Lyme,Non-metropolitan District,211,"123,025",583,"123,878",587,"122,015",578
+E07000196,South Staffordshire,Non-metropolitan District,407,"110,793",272,"108,318",266,"105,942",260
+E07000197,Stafford,Non-metropolitan District,598,"137,231",229,"130,895",219,"120,712",202
+E07000198,Staffordshire Moorlands,Non-metropolitan District,576,"95,993",167,"97,209",169,"94,555",164
+E07000199,Tamworth,Non-metropolitan District,31,"78,838","2,555","76,895","2,492","74,596","2,418"
+E10000031,Warwickshire,County,"1,975","599,153",303,"546,554",277,"506,193",256
+E07000218,North Warwickshire,Non-metropolitan District,284,"65,340",230,"62,089",218,"61,788",217
+E07000219,Nuneaton and Bedworth,Non-metropolitan District,79,"134,291","1,701","125,409","1,588","119,239","1,510"
+E07000220,Rugby,Non-metropolitan District,351,"114,829",327,"100,496",286,"87,520",249
+E07000221,Stratford-on-Avon,Non-metropolitan District,978,"135,964",139,"120,824",124,"111,551",114
+E07000222,Warwick,Non-metropolitan District,283,"148,729",526,"137,736",487,"126,095",446
+E11000005,West Midlands (Met County),Metropolitan County,902,"2,916,132","3,234","2,739,733","3,039","2,568,015","2,848"
+E08000025,Birmingham,Metropolitan District,268,"1,142,494","4,266","1,074,283","4,012","984,642","3,677"
+E08000026,Coventry,Metropolitan District,99,"343,320","3,481","316,915","3,213","302,804","3,070"
+E08000027,Dudley,Metropolitan District,98,"323,581","3,303","313,261","3,198","305,052","3,114"
+E08000028,Sandwell,Metropolitan District,86,"341,729","3,994","309,042","3,612","284,594","3,326"
+E08000029,Solihull,Metropolitan District,178,"216,666","1,215","206,856","1,160","199,574","1,119"
+E08000030,Walsall,Metropolitan District,104,"284,306","2,734","269,524","2,592","253,333","2,437"
+E08000031,Wolverhampton,Metropolitan District,69,"264,036","3,803","249,852","3,598","238,016","3,428"
+E10000034,Worcestershire,County,"1,741","604,947",348,"566,557",326,"542,233",312
+E07000234,Bromsgrove,Non-metropolitan District,217,"99,475",458,"93,732",432,"87,904",405
+E07000235,Malvern Hills,Non-metropolitan District,577,"79,973",139,"74,706",129,"72,171",125
+E07000236,Redditch,Non-metropolitan District,54,"86,996","1,604","84,318","1,554","78,779","1,452"
+E07000237,Worcester,Non-metropolitan District,33,"103,617","3,114","98,679","2,965","93,369","2,806"
+E07000238,Wychavon,Non-metropolitan District,664,"133,100",201,"117,074",176,"113,081",170
+E07000239,Wyre Forest,Non-metropolitan District,195,"101,786",521,"98,048",502,"96,929",496
+E12000006,EAST,Region,"19,116","6,348,096",332,"5,862,418",307,"5,400,463",283
+E06000055,Bedford,Unitary Authority,476,"185,761",390,"157,840",331,"148,113",311
+E06000056,Central Bedfordshire,Unitary Authority,716,"295,541",413,"255,644",357,"234,006",327
+E06000032,Luton,Unitary Authority,43,"224,826","5,186","203,641","4,697","185,889","4,288"
+E06000031,Peterborough,Unitary Authority,343,"216,349",630,"184,457",537,"157,439",459
+E06000033,Southend-on-Sea,Unitary Authority,42,"180,601","4,334","174,274","4,182","160,362","3,848"
+E06000034,Thurrock,Unitary Authority,164,"175,902","1,074","158,268",966,"143,297",875
+E10000003,Cambridgeshire,County,"3,046","680,407",223,"622,312",204,"554,704",182
+E07000008,Cambridge,Non-metropolitan District,41,"144,714","3,556","122,725","3,015","109,941","2,701"
+E07000009,East Cambridgeshire,Non-metropolitan District,651,"88,145",135,"84,245",129,"73,411",113
+E07000010,Fenland,Non-metropolitan District,546,"102,742",188,"95,461",175,"83,687",153
+E07000011,Huntingdonshire,Non-metropolitan District,906,"181,804",201,"170,039",188,"157,189",173
+E07000012,South Cambridgeshire,Non-metropolitan District,902,"163,002",181,"149,842",166,"130,476",145
+E10000012,Essex,County,"3,458","1,506,345",436,"1,396,599",404,"1,312,599",380
+E07000066,Basildon,Non-metropolitan District,110,"187,659","1,706","174,971","1,591","165,895","1,508"
+E07000067,Braintree,Non-metropolitan District,612,"155,710",255,"147,514",241,"132,482",217
+E07000068,Brentwood,Non-metropolitan District,153,"77,103",504,"73,841",482,"68,483",447
+E07000069,Castle Point,Non-metropolitan District,45,"89,708","2,008","87,964","1,969","86,673","1,940"
+E07000070,Chelmsford,Non-metropolitan District,339,"181,763",537,"168,491",497,"157,269",464
+E07000071,Colchester,Non-metropolitan District,328,"192,424",586,"173,614",529,"156,016",475
+E07000072,Epping Forest,Non-metropolitan District,339,"134,909",398,"124,880",368,"120,972",357
+E07000073,Harlow,Non-metropolitan District,31,"93,374","3,058","82,177","2,691","78,799","2,580"
+E07000074,Maldon,Non-metropolitan District,358,"66,627",186,"61,720",172,"59,589",167
+E07000075,Rochford,Non-metropolitan District,167,"86,186",516,"83,333",499,"78,650",471
+E07000076,Tendring,Non-metropolitan District,336,"148,934",443,"138,062",411,"138,802",413
+E07000077,Uttlesford,Non-metropolitan District,641,"91,948",143,"80,032",125,"68,969",108
+E10000015,Hertfordshire,County,"1,643","1,200,620",731,"1,119,824",682,"1,035,523",630
+E07000095,Broxbourne,Non-metropolitan District,51,"99,138","1,927","93,702","1,822","87,203","1,695"
+E07000096,Dacorum,Non-metropolitan District,212,"155,217",731,"145,298",684,"137,843",649
+E07000242,East Hertfordshire,Non-metropolitan District,476,"150,687",317,"138,155",290,"129,145",272
+E07000098,Hertsmere,Non-metropolitan District,101,"108,105","1,069","100,379",993,"94,466",934
+E07000099,North Hertfordshire,Non-metropolitan District,375,"133,571",356,"127,494",340,"117,051",312
+E07000240,St Albans,Non-metropolitan District,161,"148,641",922,"141,248",876,"129,168",801
+E07000243,Stevenage,Non-metropolitan District,26,"89,320","3,439","84,247","3,244","79,794","3,073"
+E07000102,Three Rivers,Non-metropolitan District,89,"93,952","1,058","87,921",990,"82,905",933
+E07000103,Watford,Non-metropolitan District,21,"102,451","4,781","90,653","4,230","80,398","3,752"
+E07000241,Welwyn Hatfield,Non-metropolitan District,130,"119,538",923,"110,727",855,"97,550",753
+E10000020,Norfolk,County,"5,384","918,369",171,"859,426",160,"798,618",148
+E07000143,Breckland,Non-metropolitan District,"1,305","142,164",109,"131,009",100,"121,585",93
+E07000144,Broadland,Non-metropolitan District,552,"132,247",240,"124,740",226,"118,814",215
+E07000145,Great Yarmouth,Non-metropolitan District,174,"100,146",575,"97,424",559,"90,945",522
+E07000146,King's Lynn and West Norfolk,Non-metropolitan District,"1,440","154,910",108,"147,936",103,"135,565",94
+E07000147,North Norfolk,Non-metropolitan District,966,"103,257",107,"101,664",105,"98,495",102
+E07000148,Norwich,Non-metropolitan District,39,"143,118","3,668","132,158","3,387","122,366","3,136"
+E07000149,South Norfolk,Non-metropolitan District,908,"142,527",157,"124,495",137,"110,848",122
+E10000029,Suffolk,County,"3,800","763,375",201,"730,133",192,"669,913",176
+E07000200,Babergh,Non-metropolitan District,594,"92,723",156,"87,901",148,"83,538",141
+E07000244,East Suffolk,Non-metropolitan District,"1,261","246,801",196,"239,946",190,"227,736",181
+E07000202,Ipswich,Non-metropolitan District,40,"139,614","3,534","133,729","3,385","117,156","2,965"
+E07000203,Mid Suffolk,Non-metropolitan District,871,"103,417",119,"97,076",111,"87,015",100
+E07000245,West Suffolk,Non-metropolitan District,"1,035","180,820",175,"171,481",166,"154,468",149
+E12000007,LONDON,Region,"1,572","8,796,628","5,596","8,204,407","5,219","7,322,403","4,658"
+E09000007,Camden,London Borough,22,"210,390","9,660","220,087","10,106","202,567","9,301"
+E09000001,City of London,London Borough,3,"8,618","2,982","7,412","2,565","7,359","2,547"
+E09000012,Hackney,London Borough,19,"259,956","13,650","247,182","12,980","207,246","10,882"
+E09000013,Hammersmith and Fulham,London Borough,16,"183,295","11,174","182,445","11,122","169,374","10,325"
+E09000014,Haringey,London Borough,30,"264,130","8,922","255,540","8,631","221,251","7,473"
+E09000019,Islington,London Borough,15,"216,767","14,589","206,285","13,884","179,387","12,073"
+E09000020,Kensington and Chelsea,London Borough,12,"143,940","11,873","158,251","13,053","162,199","13,379"
+E09000022,Lambeth,London Borough,27,"317,498","11,844","304,481","11,358","273,372","10,198"
+E09000023,Lewisham,London Borough,35,"299,810","8,530","276,938","7,880","254,336","7,237"
+E09000025,Newham,London Borough,36,"350,626","9,687","310,460","8,577","249,411","6,891"
+E09000028,Southwark,London Borough,29,"306,374","10,609","288,717","9,998","256,712","8,890"
+E09000030,Tower Hamlets,London Borough,20,"312,273","15,794","256,012","12,949","201,090","10,171"
+E09000032,Wandsworth,London Borough,34,"328,367","9,584","307,710","8,981","271,742","7,931"
+E09000033,Westminster,London Borough,21,"205,087","9,547","219,582","10,221","203,329","9,465"
+E09000002,Barking and Dagenham,London Borough,36,"218,534","6,053","187,029","5,181","165,654","4,589"
+E09000003,Barnet,London Borough,87,"388,639","4,479","357,538","4,121","319,481","3,682"
+E09000004,Bexley,London Borough,61,"246,543","4,070","232,774","3,843","218,757","3,611"
+E09000005,Brent,London Borough,43,"338,918","7,839","312,245","7,222","269,620","6,236"
+E09000006,Bromley,London Borough,150,"329,830","2,197","310,554","2,069","296,218","1,973"
+E09000008,Croydon,London Borough,86,"390,506","4,515","364,815","4,218","335,112","3,875"
+E09000009,Ealing,London Borough,56,"366,127","6,592","339,314","6,109","307,276","5,532"
+E09000010,Enfield,London Borough,81,"329,601","4,078","313,935","3,884","277,266","3,431"
+E09000011,Greenwich,London Borough,47,"289,254","6,114","255,483","5,400","217,460","4,596"
+E09000015,Harrow,London Borough,50,"260,987","5,172","240,499","4,766","210,044","4,162"
+E09000016,Havering,London Borough,112,"262,022","2,332","237,927","2,118","224,717","2,000"
+E09000017,Hillingdon,London Borough,116,"304,792","2,634","275,499","2,381","245,616","2,123"
+E09000018,Hounslow,London Borough,56,"287,940","5,145","254,927","4,555","215,976","3,859"
+E09000021,Kingston upon Thames,London Borough,37,"167,845","4,505","160,436","4,306","149,045","4,000"
+E09000024,Merton,London Borough,38,"215,324","5,723","200,543","5,330","191,106","5,079"
+E09000026,Redbridge,London Borough,56,"309,836","5,494","281,395","4,990","241,893","4,289"
+E09000027,Richmond upon Thames,London Borough,57,"195,232","3,402","187,527","3,267","174,311","3,037"
+E09000029,Sutton,London Borough,44,"209,517","4,778","191,123","4,359","181,461","4,138"
+E09000031,Waltham Forest,London Borough,39,"278,050","7,164","259,742","6,693","222,015","5,721"
+E12000008,SOUTH EAST,Region,"19,072","9,294,023",487,"8,652,784",454,"8,023,449",421
+E06000036,Bracknell Forest,Unitary Authority,109,"125,174","1,144","113,696","1,039","109,650","1,002"
+E06000043,Brighton and Hove,Unitary Authority,83,"276,334","3,336","272,952","3,295","249,949","3,018"
+E06000060,Buckinghamshire,Unitary Authority,"1,565","555,257",355,"506,550",324,"479,131",306
+E06000046,Isle of Wight,Unitary Authority,380,"140,889",371,"138,392",365,"132,925",350
+E06000035,Medway,Unitary Authority,194,"279,827","1,445","264,885","1,367","249,704","1,289"
+E06000042,Milton Keynes,Unitary Authority,309,"288,201",934,"249,895",810,"212,707",689
+E06000044,Portsmouth,Unitary Authority,40,"206,828","5,122","205,433","5,087","188,043","4,657"
+E06000038,Reading,Unitary Authority,40,"173,170","4,288","155,339","3,846","144,684","3,582"
+E06000039,Slough,Unitary Authority,33,"158,289","4,864","140,713","4,324","120,577","3,705"
+E06000045,Southampton,Unitary Authority,50,"247,256","4,957","235,870","4,729","219,539","4,401"
+E06000037,West Berkshire,Unitary Authority,704,"161,865",230,"154,148",219,"144,494",205
+E06000040,Windsor and Maidenhead,Unitary Authority,197,"153,921",783,"145,098",738,"133,541",680
+E06000041,Wokingham,Unitary Authority,179,"178,169",996,"154,943",866,"150,334",840
+E10000011,East Sussex,County,"1,709","546,924",320,"527,209",309,"493,130",289
+E07000061,Eastbourne,Non-metropolitan District,44,"101,593","2,300","99,308","2,249","89,836","2,034"
+E07000062,Hastings,Non-metropolitan District,30,"90,959","3,053","90,173","3,026","85,392","2,866"
+E07000063,Lewes,Non-metropolitan District,292,"100,194",343,"97,584",334,"92,247",316
+E07000064,Rother,Non-metropolitan District,509,"93,429",183,"90,729",178,"85,471",168
+E07000065,Wealden,Non-metropolitan District,833,"160,749",193,"149,415",179,"140,184",168
+E10000014,Hampshire,County,"3,678","1,406,199",382,"1,322,118",359,"1,241,431",337
+E07000084,Basingstoke and Deane,Non-metropolitan District,634,"185,656",293,"168,550",266,"152,874",241
+E07000085,East Hampshire,Non-metropolitan District,514,"126,199",245,"116,010",226,"109,369",213
+E07000086,Eastleigh,Non-metropolitan District,80,"136,974","1,719","125,852","1,579","116,257","1,459"
+E07000087,Fareham,Non-metropolitan District,74,"114,993","1,549","111,931","1,507","108,152","1,457"
+E07000088,Gosport,Non-metropolitan District,25,"82,178","3,239","82,669","3,258","76,676","3,022"
+E07000089,Hart,Non-metropolitan District,215,"100,293",466,"91,662",426,"83,590",388
+E07000090,Havant,Non-metropolitan District,56,"124,470","2,233","120,783","2,167","116,886","2,097"
+E07000091,New Forest,Non-metropolitan District,752,"176,262",234,"176,789",235,"169,506",225
+E07000092,Rushmoor,Non-metropolitan District,39,"100,068","2,563","94,354","2,417","90,892","2,328"
+E07000093,Test Valley,Non-metropolitan District,628,"131,190",209,"116,698",186,"109,965",175
+E07000094,Winchester,Non-metropolitan District,661,"127,916",194,"116,820",177,"107,264",162
+E10000016,Kent,County,"3,544","1,578,519",445,"1,466,466",414,"1,331,194",376
+E07000105,Ashford,Non-metropolitan District,581,"133,178",229,"118,405",204,"103,024",177
+E07000106,Canterbury,Non-metropolitan District,309,"156,554",507,"150,600",488,"135,381",438
+E07000107,Dartford,Non-metropolitan District,73,"116,777","1,606","97,604","1,342","85,956","1,182"
+E07000108,Dover,Non-metropolitan District,315,"116,595",370,"111,718",354,"104,646",332
+E07000112,Folkestone and Hythe,Non-metropolitan District,357,"110,056",308,"108,199",303,"96,345",270
+E07000109,Gravesham,Non-metropolitan District,99,"106,838","1,079","101,766","1,028","95,791",968
+E07000110,Maidstone,Non-metropolitan District,393,"176,712",449,"155,764",396,"139,116",354
+E07000111,Sevenoaks,Non-metropolitan District,369,"120,841",327,"115,351",312,"109,242",296
+E07000113,Swale,Non-metropolitan District,373,"152,223",408,"136,324",365,"123,123",330
+E07000114,Thanet,Non-metropolitan District,104,"140,678","1,358","134,402","1,297","126,750","1,223"
+E07000115,Tonbridge and Malling,Non-metropolitan District,240,"132,386",551,"121,087",504,"107,771",449
+E07000116,Tunbridge Wells,Non-metropolitan District,331,"115,681",349,"115,246",348,"104,049",314
+E10000025,Oxfordshire,County,"2,605","726,530",279,"654,791",251,"607,277",233
+E07000177,Cherwell,Non-metropolitan District,589,"161,837",275,"142,252",242,"131,988",224
+E07000178,Oxford,Non-metropolitan District,46,"160,021","3,509","150,245","3,295","135,509","2,971"
+E07000179,South Oxfordshire,Non-metropolitan District,679,"150,024",221,"134,961",199,"128,307",189
+E07000180,Vale of White Horse,Non-metropolitan District,578,"139,487",241,"121,891",211,"115,772",200
+E07000181,West Oxfordshire,Non-metropolitan District,714,"115,161",161,"105,442",148,"95,701",134
+E10000030,Surrey,County,"1,663","1,205,616",725,"1,135,367",683,"1,060,163",638
+E07000207,Elmbridge,Non-metropolitan District,95,"139,369","1,466","131,428","1,383","122,709","1,291"
+E07000208,Epsom and Ewell,Non-metropolitan District,34,"80,998","2,377","75,191","2,206","67,077","1,968"
+E07000209,Guildford,Non-metropolitan District,271,"143,929",531,"137,580",508,"129,774",479
+E07000210,Mole Valley,Non-metropolitan District,258,"87,608",339,"85,637",332,"80,283",311
+E07000211,Reigate and Banstead,Non-metropolitan District,129,"151,423","1,173","138,375","1,071","126,661",981
+E07000212,Runnymede,Non-metropolitan District,78,"87,739","1,124","80,501","1,032","78,053","1,000"
+E07000213,Spelthorne,Non-metropolitan District,45,"102,995","2,294","95,852","2,135","90,404","2,014"
+E07000214,Surrey Heath,Non-metropolitan District,95,"90,645",953,"86,378",908,"80,309",845
+E07000215,Tandridge,Non-metropolitan District,248,"88,143",355,"83,178",335,"79,332",320
+E07000216,Waverley,Non-metropolitan District,345,"128,878",373,"121,754",353,"115,668",335
+E07000217,Woking,Non-metropolitan District,64,"103,889","1,633","99,493","1,564","89,893","1,413"
+E10000032,West Sussex,County,"1,991","885,055",445,"808,919",406,"754,976",379
+E07000223,Adur,Non-metropolitan District,42,"64,626","1,536","61,334","1,458","59,714","1,420"
+E07000224,Arun,Non-metropolitan District,221,"165,225",748,"149,811",678,"140,998",638
+E07000225,Chichester,Non-metropolitan District,786,"124,531",158,"113,995",145,"106,494",135
+E07000226,Crawley,Non-metropolitan District,45,"118,580","2,637","107,053","2,380","100,440","2,233"
+E07000227,Horsham,Non-metropolitan District,530,"147,487",278,"131,540",248,"122,272",231
+E07000228,Mid Sussex,Non-metropolitan District,334,"152,949",458,"140,188",420,"127,397",381
+E07000229,Worthing,Non-metropolitan District,33,"111,657","3,433","104,998","3,229","97,661","3,003"
+E12000009,SOUTH WEST,Region,"23,836","5,712,840",240,"5,300,831",222,"4,943,364",207
+E06000022,Bath and North East Somerset,Unitary Authority,346,"192,423",556,"175,538",508,"169,158",489
+E06000058,"Bournemouth, Christchurch and Poole",Unitary Authority,162,"400,109","2,469","379,441","2,341","346,829","2,140"
+E06000023,"Bristol, City of",Unitary Authority,110,"471,117","4,296","428,074","3,903","390,049","3,557"
+E06000052,Cornwall,Unitary Authority,"3,545","572,010",161,"533,760",151,"499,937",141
+E06000059,Dorset,Unitary Authority,"2,491","381,292",153,"365,897",147,"346,596",139
+E06000053,Isles of Scilly,Unitary Authority,16,"2,271",139,"2,224",136,"2,140",131
+E06000024,North Somerset,Unitary Authority,374,"217,399",582,"203,091",543,"188,840",505
+E06000026,Plymouth,Unitary Authority,80,"264,727","3,315","256,589","3,213","240,954","3,018"
+E06000025,South Gloucestershire,Unitary Authority,497,"290,736",585,"263,417",530,"245,985",495
+E06000030,Swindon,Unitary Authority,230,"233,713","1,016","209,709",911,"180,129",783
+E06000027,Torbay,Unitary Authority,63,"139,446","2,217","131,193","2,086","129,965","2,067"
+E06000054,Wiltshire,Unitary Authority,"3,255","513,411",158,"474,319",146,"433,508",133
+E10000008,Devon,County,"6,564","814,440",124,"747,709",114,"705,568",107
+E07000040,East Devon,Non-metropolitan District,814,"152,120",187,"133,272",164,"125,713",154
+E07000041,Exeter,Non-metropolitan District,47,"129,307","2,749","117,063","2,489","111,180","2,364"
+E07000042,Mid Devon,Non-metropolitan District,913,"83,186",91,"77,936",85,"69,887",77
+E07000043,North Devon,Non-metropolitan District,"1,086","99,435",92,"93,976",87,"87,674",81
+E07000044,South Hams,Non-metropolitan District,887,"89,213",101,"83,563",94,"81,929",92
+E07000045,Teignbridge,Non-metropolitan District,674,"135,216",201,"124,271",184,"121,167",180
+E07000046,Torridge,Non-metropolitan District,984,"68,475",70,"63,973",65,"59,129",60
+E07000047,West Devon,Non-metropolitan District,"1,160","57,488",50,"53,655",46,"48,889",42
+E10000013,Gloucestershire,County,"2,653","646,627",244,"598,289",226,"564,999",213
+E07000078,Cheltenham,Non-metropolitan District,47,"118,866","2,551","115,645","2,482","110,024","2,361"
+E07000079,Cotswold,Non-metropolitan District,"1,165","91,125",78,"83,180",71,"80,387",69
+E07000080,Forest of Dean,Non-metropolitan District,526,"87,140",166,"82,200",156,"80,057",152
+E07000081,Gloucester,Non-metropolitan District,41,"132,538","3,268","121,921","3,006","109,947","2,711"
+E07000082,Stroud,Non-metropolitan District,461,"121,529",264,"113,074",246,"108,060",235
+E07000083,Tewkesbury,Non-metropolitan District,414,"95,429",230,"82,269",199,"76,524",185
+E10000027,Somerset,County,"3,450","573,119",166,"531,581",154,"498,707",145
+E07000187,Mendip,Non-metropolitan District,739,"116,285",157,"109,406",148,"103,964",141
+E07000188,Sedgemoor,Non-metropolitan District,564,"125,752",223,"114,919",204,"106,030",188
+E07000246,Somerset West and Taunton,Non-metropolitan District,"1,188","157,909",133,"145,143",122,"137,654",116
+E07000189,South Somerset,Non-metropolitan District,959,"173,173",181,"162,113",169,"151,059",158
+W92000004,WALES,Country,"20,737","3,105,410",150,"3,063,758",148,"2,910,232",140
+W06000001,Isle of Anglesey,Unitary Authority,712,"68,944",97,"69,913",98,"67,806",95
+W06000002,Gwynedd,Unitary Authority,"2,535","117,072",46,"121,523",48,"116,844",46
+W06000003,Conwy,Unitary Authority,"1,126","114,828",102,"115,326",102,"109,674",97
+W06000004,Denbighshire,Unitary Authority,837,"96,046",115,"93,919",112,"93,070",111
+W06000005,Flintshire,Unitary Authority,440,"155,076",353,"152,666",347,"148,629",338
+W06000006,Wrexham,Unitary Authority,504,"135,132",268,"135,070",268,"128,540",255
+W06000023,Powys,Unitary Authority,"5,181","133,557",26,"133,071",26,"126,398",24
+W06000008,Ceredigion,Unitary Authority,"1,785","70,658",40,"75,293",42,"75,417",42
+W06000009,Pembrokeshire,Unitary Authority,"1,618","123,669",76,"122,613",76,"113,058",70
+W06000010,Carmarthenshire,Unitary Authority,"2,370","188,191",79,"183,961",78,"173,652",73
+W06000011,Swansea,Unitary Authority,378,"237,834",630,"238,691",632,"223,463",592
+W06000012,Neath Port Talbot,Unitary Authority,441,"141,931",322,"139,880",317,"134,380",305
+W06000013,Bridgend,Unitary Authority,251,"145,760",581,"139,410",556,"128,735",513
+W06000014,Vale of Glamorgan,Unitary Authority,331,"132,534",400,"126,679",383,"119,277",360
+W06000015,Cardiff,Unitary Authority,141,"359,512","2,551","345,442","2,451","310,088","2,201"
+W06000016,Rhondda Cynon Taf,Unitary Authority,424,"237,497",560,"234,373",553,"231,910",547
+W06000024,Merthyr Tydfil,Unitary Authority,111,"58,866",528,"58,851",528,"56,207",504
+W06000018,Caerphilly,Unitary Authority,277,"176,005",635,"178,782",645,"169,546",611
+W06000019,Blaenau Gwent,Unitary Authority,109,"66,993",616,"69,812",642,"70,000",644
+W06000020,Torfaen,Unitary Authority,126,"92,453",736,"91,190",725,"90,912",723
+W06000021,Monmouthshire,Unitary Authority,849,"93,194",110,"91,508",108,"84,984",100
+W06000022,Newport,Unitary Authority,190,"159,658",838,"145,785",766,"137,642",723
+S92000003,SCOTLAND,Country,"77,901","5,479,900",70,"5,299,900",68,"5,064,200",65
+S12000033,Aberdeen City,Council Area,186,"227,430","1,226","222,460","1,199","211,910","1,142"
+S12000034,Aberdeenshire,Council Area,"6,313","262,690",42,"253,650",40,"226,940",36
+S12000041,Angus,Council Area,"2,181","116,120",53,"116,200",53,"108,370",50
+S12000035,Argyll and Bute,Council Area,"6,907","86,220",12,"88,930",13,"91,300",13
+S12000036,City of Edinburgh,Council Area,263,"526,470","1,999","477,940","1,815","449,020","1,705"
+S12000005,Clackmannanshire,Council Area,159,"51,540",324,"51,500",324,"48,070",302
+S12000006,Dumfries and Galloway,Council Area,"6,426","148,790",23,"151,410",24,"147,780",23
+S12000042,Dundee City,Council Area,60,"147,720","2,470","147,200","2,462","145,460","2,432"
+S12000008,East Ayrshire,Council Area,"1,262","122,020",97,"122,690",97,"120,310",95
+S12000045,East Dunbartonshire,Council Area,174,"108,900",624,"105,000",602,"108,250",620
+S12000010,East Lothian,Council Area,679,"109,580",161,"99,920",147,"90,180",133
+S12000011,East Renfrewshire,Council Area,174,"96,580",554,"90,810",521,"89,410",513
+S12000014,Falkirk,Council Area,297,"160,700",541,"156,250",526,"145,270",489
+S12000047,Fife,Council Area,"1,325","374,730",283,"365,300",276,"349,770",264
+S12000049,Glasgow City,Council Area,175,"635,130","3,637","593,060","3,396","578,710","3,314"
+S12000017,Highland,Council Area,"25,653","238,060",9,"232,730",9,"208,920",8
+S12000018,Inverclyde,Council Area,160,"76,700",478,"81,220",506,"84,150",524
+S12000019,Midlothian,Council Area,354,"94,680",268,"83,450",236,"80,950",229
+S12000020,Moray,Council Area,"2,238","96,410",43,"93,470",42,"87,000",39
+S12000013,Na h-Eileanan Siar,Council Area,"3,056","26,640",9,"27,690",9,"26,450",9
+S12000021,North Ayrshire,Council Area,885,"134,220",152,"138,090",156,"135,820",153
+S12000050,North Lanarkshire,Council Area,470,"341,400",726,"337,720",719,"321,180",683
+S12000023,Orkney Islands,Council Area,990,"22,540",23,"21,420",22,"19,220",19
+S12000048,Perth and Kinross,Council Area,"5,286","153,810",29,"146,850",28,"134,950",26
+S12000038,Renfrewshire,Council Area,261,"179,940",688,"174,700",668,"172,850",661
+S12000026,Scottish Borders,Council Area,"4,732","116,020",25,"113,880",24,"106,950",23
+S12000027,Shetland Islands,Council Area,"1,467","22,940",16,"23,240",16,"21,960",15
+S12000028,South Ayrshire,Council Area,"1,222","112,450",92,"112,980",92,"112,160",92
+S12000029,South Lanarkshire,Council Area,"1,772","322,630",182,"313,900",177,"302,340",171
+S12000030,Stirling,Council Area,"2,186","93,470",43,"90,330",41,"86,200",39
+S12000039,West Dunbartonshire,Council Area,159,"87,790",553,"90,610",571,"93,320",588
+S12000040,West Lothian,Council Area,428,"185,580",434,"175,300",410,"159,030",372
+N92000002,NORTHERN IRELAND,Country,"13,547","1,904,563",141,"1,814,318",134,"1,688,838",125
+N09000001,Antrim and Newtownabbey,Local Government District,571,"145,852",255,"138,651",243,"128,760",225
+N09000011,Ards and North Down,Local Government District,458,"163,827",357,"156,943",342,"149,559",326
+N09000002,"Armagh City, Banbridge and Craigavon",Local Government District,"1,332","219,127",165,"200,298",150,"176,014",132
+N09000003,Belfast,Local Government District,133,"345,006","2,595","333,895","2,511","328,695","2,472"
+N09000004,Causeway Coast and Glens,Local Government District,"1,980","141,664",72,"140,907",71,"131,374",66
+N09000005,Derry City and Strabane,Local Government District,"1,237","150,834",122,"148,191",120,"143,810",116
+N09000006,Fermanagh and Omagh,Local Government District,"2,836","116,926",41,"113,501",40,"105,751",37
+N09000007,Lisburn and Castlereagh,Local Government District,504,"149,272",296,"135,280",269,"124,585",247
+N09000008,Mid and East Antrim,Local Government District,"1,045","139,127",133,"135,365",130,"127,452",122
+N09000009,Mid Ulster,Local Government District,"1,823","150,598",83,"139,011",76,"119,112",65
+N09000010,"Newry, Mourne and Down",Local Government District,"1,628","182,345",112,"172,276",106,"153,726",94
